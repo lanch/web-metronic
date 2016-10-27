@@ -1,0 +1,20 @@
+/*
+* This is a manifest file that'll be compiled into application.css, which will include all the files
+* listed below.
+*
+* Any CSS file within this directory can be referenced here using a relative path.
+*
+* You're free to add application-wide styles to this file and they'll appear at the top of the
+* compiled file, but it's generally better to create a new file per style scope.
+*
+*= require font-awesome/font-awesome
+*= require simple-line-icons/simple-line-icons
+*= require bootstrap/bootstrap
+*= require bootstrap-switch/bootstrap-switch
+*= require components
+*= require plugins
+*= require layout/layout
+*= require layout/themes/darkblue
+*= require layout/custom
+*= require_self
+*/

@@ -1,0 +1,11 @@
+description: "The web profile with metronic"
+features:
+    defaults: 
+        - hibernate5
+        - asset-pipeline
+skeleton:
+    excludes:
+        - grails-app/assets/images/*.*
+        - grails-app/assets/images/skin/*.*
+        - grails-app/assets/javascripts/*.js
+        - grails-app/assets/stylesheets/*.css
